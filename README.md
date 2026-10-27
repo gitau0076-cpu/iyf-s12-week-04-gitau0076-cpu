@@ -41,9 +41,9 @@ iyf-s12-week-04-gitau0076-cpu/
 ## Future Improvements
 - Adding advanced DOM manipulation and interactivity.
 - Enhancing error handling and input validation.
-- Improving UI styling and responsivenessmprovements.
+- Improving UI styling and responsiveness.
 
 ## Contact
-Email: gitau0076@gmail.com
-Github: https://github.com/gitau0076-cpu/iyf-s12-week-04-gitau0076-cpu
+- Email: gitau0076@gmail.com
+- Github: https://github.com/gitau0076-cpu/iyf-s12-week-04-gitau0076-cpu
 
