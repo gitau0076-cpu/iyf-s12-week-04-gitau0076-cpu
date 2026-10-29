@@ -31,12 +31,18 @@ iyf-s12-week-04-gitau0076-cpu/
 ├── main.js
 └── README.md
 ```
-### What i Learned
+### Lessons Learned
 
-1. Implementing core JavaScript fundamentals, algorithms, and logic through daily challenges.
-2. Managing script execution flow between `main.js` and modular challenge files.
-3. Version control tracking, committing, and pushing code updates via terminal commands.
-4. Structuring a clean repository layout separating functional code from daily tasks.
+1. **Strict Equality Constraints:** Learned how utilizing `===` instead of `==` prevents type coercion bugs, safely ensuring that a string like `"5"` does not evaluate as matching the numerical value `5`.
+2. **Object vs Array Iteration:** Gained a deep understanding of handling structured data by transforming key-value data objects using `Object.values()` to extract and process numerical fields via `.reduce()` and `.filter()`.
+3. **Loop Boundary Management:** Debugged recursive infinite loops within lookup algorithms by decoupling state-tracking accumulators from multi-pass loop conditions.
+4. **Local Git Workspace Tracking:** Used terminal-based environment commands to print raw `git config` trees and stage operational snapshots safely.
+
+## Future Improvements
+- Adding advanced DOM manipulation and interactivity.
+- Enhancing error handling and input validation.
+- Improving UI styling and responsiveness.
+
 
 ## Future Improvements
 - Adding advanced DOM manipulation and interactivity.
