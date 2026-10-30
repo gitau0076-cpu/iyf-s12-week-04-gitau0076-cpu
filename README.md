@@ -37,13 +37,11 @@ iyf-s12-week-04-gitau0076-cpu/
 2. **Object vs Array Iteration:** Gained a deep understanding of handling structured data by transforming key-value data objects using `Object.values()` to extract and process numerical fields via `.reduce()` and `.filter()`.
 3. **Loop Boundary Management:** Debugged recursive infinite loops within lookup algorithms by decoupling state-tracking accumulators from multi-pass loop conditions.
 4. **Local Git Workspace Tracking:** Used terminal-based environment commands to print raw `git config` trees and stage operational snapshots safely.
-
-## Future Improvements
-- Adding advanced DOM manipulation and interactivity.
-- Enhancing error handling and input validation.
-- Improving UI styling and responsiveness.
-
-
+## Challenges I Faced
+- Organizing the daily challenge files and keeping the project structure clear.
+- Updating `index.html` and connecting it to `main.js`.
+- Adding work 1.JPG and documenting the work in the README.
+- Managing Git history so each change had its own clear commit message.
 ## Future Improvements
 - Adding advanced DOM manipulation and interactivity.
 - Enhancing error handling and input validation.
